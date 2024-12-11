@@ -9,7 +9,7 @@ redirect_from:
 
 balabala
 
-A data-driven personal website
+Reserach Interests
 ======
 Data-Centric AI
 Foundation Models
